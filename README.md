@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mahfaraak
 - 👀 I’m interested in softwares 
-- 🌱 I’m currently learning frontend dev
+- 🌱 I’m currently learning to become frontend dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me omerf542@gmail.com
 
